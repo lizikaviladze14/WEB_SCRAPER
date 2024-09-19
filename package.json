@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "@types/puppeteer": "^7.0.4",
+    "puppeteer": "^23.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
